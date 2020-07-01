@@ -1,0 +1,108 @@
+<html>
+<head><title><PROYECTO  DE  ANALISIS  DE  SISTEMAS></title>
+
+	<style type="text/css">
+*{
+padding:0px;
+margin:0px;
+}
+#header{
+	margin:auto;
+	width:500px;
+	font-family:Arial, helvetica, sans-serif;
+	}
+
+ul, ol {
+	list-style:none;
+	}
+
+.nav li a {background-color:#000000;
+		color:#FFC0CB;
+		text-decoration:none;
+		padding:10px 15px;
+		display:block;
+	}
+.nav li a:hover{
+background-clor:#0C2E06;
+}
+
+.nav > li {
+float:left
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+.nav li ul li {
+position:relative;
+
+}
+
+.nav li ul li ul {
+right:-140px;
+top:0px;
+}
+
+</style>
+
+</head>
+
+<body background="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\1111.jpg"
+TEXT="#C0C0C0">
+
+<div id="header">
+
+<ul class="nav">
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\menu acabado.html">INICIO</a></li>
+
+	<li><a href="">CAFE  TENTACION</a>
+<UL>
+<li><a href="C:\Users\HP\Desktop\Nueva carpeta\MENU.html">MENU</a>
+<li><a href="C:\Users\HP\Desktop\Nueva carpeta\SUCURSALES.html">SUCURSALES</a>
+
+</UL>
+	</li>
+
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\TAREAS.html">TAREAS</a></li>
+
+<li><a href="C:\Users\HP\Desktop\Nueva carpeta\GRACIAS.html">GRACIAS</a></li>
+
+</ul>
+
+</div>
+
+<br>
+<hr align=center  width=100% color="#FFFFFF"><br>
+
+<h1 align="left">CAFE  TENTACION</h1>
+
+<br>
+<br>
+<br>
+<font color="#A62A2A" face="tahoma"><h3 align="left">1. PLANTEAMIENTO</h3></font>    <br>
+<br>
+Antecedentes. Durante los últimos años, se ha percibido un cambio de crecimiento en el ámbito turístico y comercial de TARIJA, con la construcción y remodelación de comercios artesanales, mercados, restaurantes, bares; haciendo de TARIJA un lugar reconocido y concurrido. Planteamiento: Nuestra estancia y visita nos ha permitido percibir la falta de un lugar donde se combine la vida nocturna con la comida y un buen café con la opción de un ambiente cerrado o abierto y con la compañía de buena música.
+<br>
+<br>
+<font color="#A62A2A" face="tahoma"><h3 align="left"> 2. JUSTIFICACION</h3></font> 
+<br>
+Esta podemos tomarla como los propósitos y la aportación que podemos hacer con este proyecto:  Propósitos: Satisfacer la necesidad del público de poder salir a un lugar y disfrutar de una velada al aire libre en compañía de amistades y familia. Por otra parte, es importante para nosotros no solo gustar al público sino llegar a ser la primera opción para ellos.Aportaciones: Creemos que este proyecto se justifica en la medida que se convierte en un aporte, que nos deja como opción el apoyo y fomentación a actividades culturales de la zona.
+<br>
+<br>
+<font color="#A62A2A" face="tahoma"><h3 align="left"> 3. OBJETIVO GENERAL</h3></font> 
+Satisfacer una necesidad general de una población especifica que oscila regularmente entre los 18 a 45 años de edad, además de turistas, obteniendo beneficios de lucro de ella, llevándola a cabo con éxito y principalmente recuperando la inversión inicial en un plazo no mayor de seis meses. objetivos especificos. Demostrar factibilidad en el proyecto, a través de costos de costos, inversión y estados financieros proyectados. Llevar a cabo sin mayores contratiempos, en un máximo tiempo de tres meses. Establecer una estrategia de mercado efectiva y accesible. Mantenerse en el mercado.
+<br>
+<br>
+<CENTER>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\IMG-20200627-WA0001.jpg" width=800 heigth=500 alt="descripcion" width="50%" ></div>
+</CENTER>
+</body>
+

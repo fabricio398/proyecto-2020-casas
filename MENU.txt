@@ -1,0 +1,139 @@
+<html>
+<head>
+
+<style type="text/css">
+*{
+padding:0px;
+margin:0px;
+}
+#header{
+	margin:auto;
+	width:500px;
+	font-family:Arial, helvetica, sans-serif;
+	}
+
+ul, ol {
+	list-style:none;
+	}
+
+.nav li a {background-color:#000000;
+		color:#FFC0CB;
+		text-decoration:none;
+		padding:10px 15px;
+		display:block;
+	}
+.nav li a:hover{
+background-clor:#0C2E06;
+}
+
+.nav > li {
+float:left
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+.nav li ul li {
+position:relative;
+
+}
+
+.nav li ul li ul {
+right:-140px;
+top:0px;
+}
+
+
+
+
+
+</style>
+
+</head>
+
+<body background="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\FB_IMG_1593287223735.jpg"
+text="#ffffff">
+
+
+<div id="header">
+
+<ul class="nav">
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\CAFE  TENTACION.html">CAFE  TENTACION</a></li>
+
+</ul>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<h1 align="left"><font color="#ffff00" face="tahoma">MENU DE CAFE  TENTACION</font></h1>
+
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Espresso/Expresso/Exprés o solo</u></h2></font>  
+<br>
+El nombre expresso proviene precisamente de las cafeteras espresso para obtenerlo. Se trata de un café negro fuerte logrado a través del agua hirviendo a alta presión que atraviesa los granos de café. Un expresso perfectamente preparado tendrá una crema espesa, marrón dorado (espuma) en la superficie. Si la crema es buena, el azúcar agregado flotará en la superficie durante un par de segundos antes de hundirse lentamente. De todos los tipos de café es el de más rápida preparación y sabor concentrado.
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\expreso.jpg" width=400 heigth=150 alt="descripcion" width="50%" ></div>
+
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Capuchino</u></h2></font>  
+<br>
+Esta bebida de café tan popular se ha convertido en un elemento básico que incluso la más común de las tiendas de café de la esquina la ofrece (o al menos una versión de la misma). Un verdadero capuchino es una combinación de partes iguales de expresso, leche caliente y espuma de leche. Esta bebida de lujo, si se hace correctamente, puede funcionar incluso como un postre por sus sabores variados y su riqueza
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\img_como_hacer_capuchino_de_vainilla_32474_600_square.jpg" width=500 heigth=200 alt="descripcion" width="50%" ></div>
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Americano </u></h2></font>  
+<br>
+Consiste en un solo chorrito de expresso añadido a una taza de agua caliente. El nombre se cree que se originó como una pequeña burla a los estadounidenses, que tuvieron que diluir su expresso cuando empezó a ganar popularidad en este lado del charco. Sin embargo, muchas casas de café lo han perfeccionado, y el resultado se ha convertido en una especie de crema, a base de café expresso. Se consume mucho en Venezuela.
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\img_capuchino_16242_600.jpg" width=500 heigth=200 alt="descripcion" width="50%" ></div>
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Caffe Latte/Café con leche</u> </h2></font>  
+<br>
+latteUn café con leche es un solo chorro de café expresso por tres partes de leche caliente.
+<br>
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\a719fa759004b80f9a46c55c8ab02fe0.jpg" width=500 heigth=200 alt="descripcion" width="50%" ></div>
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Café Moca (Mokaccino)</u> </h2></font>  
+<br>
+Se trata de un capuchino o un café con leche con sirope de chocolate caliente o añadidos. Puede haber grandes variaciones en la manera de prepararlo, así que pregunte a su casa de café cómo lo hacen antes de pedir uno.
+<br>
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\dt.common.streams.StreamServer.jpeg" width=500 heigth=200 alt="descripcion" width="50%" ></div>
+<br>
+<br>
+<font color="#c0c0c0" face="tahoma"><h2 align="left"><u>Caramelo Macchiato</u> </h2></font>  
+<br>
+Esta es otra variación que se prepara de mil maneras distintas en función del lugar donde se va a tomar. El método más común es la combinación de café, caramelo y leche espumada, aunque algunos utilizan la leche al vapor. A menudo, se añade vainilla para proporcionar un sabor extra.
+<br>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\87478.jpg" width=500 heigth=200 alt="descripcion" width="50%" ></div>
+<br>
+<br>
+
+
+
+
+
+</body>
+</html>

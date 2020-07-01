@@ -1,0 +1,114 @@
+<html>
+<head><title><PROYECTO  DE  ANALISIS  DE  SISTEMAS></title>
+
+	<style type="text/css">
+*{
+padding:0px;
+margin:0px;
+}
+#header{
+	margin:auto;
+	width:500px;
+	font-family:Arial, helvetica, sans-serif;
+	}
+
+ul, ol {
+	list-style:none;
+	}
+
+.nav li a {background-color:#000000;
+		color:#FFC0CB;
+		text-decoration:none;
+		padding:10px 15px;
+		display:block;
+	}
+.nav li a:hover{
+background-clor:#0C2E06;
+}
+
+.nav > li {
+float:left
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+.nav li ul li {
+position:relative;
+
+}
+
+.nav li ul li ul {
+right:-140px;
+top:0px;
+}
+
+
+
+
+
+</style>
+
+</head>
+
+<body background="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\896bb7b7-f2d7-4ca3-857c-beb6b754ef8b.jpg"
+text="#000000">
+
+
+<div id="header">
+
+<ul class="nav">
+	<li><a href="">INICIO</a></li>
+
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\CAFE  TENTACION.html">CAFE  TENTACION</a></li>
+
+
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\TAREAS.html">TAREAS</a></li>
+
+	<li><a href="C:\Users\HP\Desktop\Nueva carpeta\GRACIAS.html">GRACIAS</a></li>
+
+</ul>
+
+</div>
+<br>
+<hr align=center SIZE=4 width=100% color="#000000"><br>
+
+<h1 align="left"><h1><marquee><font size=6 color="#4f2f4f" face="tahoma">BIENVENIDOS  A MI PRIMERA  PAGINA  WEB</font></marquee></H1></h1>
+
+<br>
+<hr align=center width=100% size=4 color="#000000"><br>
+
+<center>
+<div   class="container-all">
+<img src="C:\Users\HP\Desktop\Nueva carpeta\Imagenes html\foto.jpg" width=180 heigth=100 alt="descripcion" width="50%" ></div>
+</center>
+
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>NOMBRE:</u></font>FABRICIO DENILSON CASAS AGUILAR </h3></font><br> 
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>SEMESTRE:</u></font> SEXTO</h3></font><br>
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>TURNO:</u></font> MAÑANA</h3></font><br>
+
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>DOCENTE:</u></font> VARGAS PATSI CLETO  ALBERTO</h3></font><br>
+
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>CARRERA:</u></font> CONTADURIA  PUBLICA</h3></font><br>
+<br>
+<font color="0000ff" face="tahoma"><h3 align="left"><font color="#ff0000" face="tahoma"><u>MATERIA: </u></font>ANALISIS Y DISEÑO  DE INF. CONTABLE</h3></font><br>
+</div>
+</body>
+
+
+
+</html>
+
+
